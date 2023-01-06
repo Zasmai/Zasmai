@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Zasmai
-- 👀 I’m interested in beginner coding
+- 👀 I am passionate about coding
 - 🌱 I’m currently learning HTML, CSS, JS
-- 💞️ I’m looking to collaborate on simple projects for beginners with the hope of becoming a Full Stack Software Engineer.
+- 💞️ I’m looking to collaborate on projects while I work towards becoming a Full Stack Software Engineer.
 - 📫 How to reach me - you can contact me here.
 
 <!---
