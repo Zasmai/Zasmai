@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Zasmai
+- 👋 Hi, I’m Sarah
 - 👀 I am passionate about coding
 - 🌱 I’m currently learning HTML, CSS, JS
 - 💞️ I’m looking to collaborate on projects while I work towards becoming a Full Stack Software Engineer.
