@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Sarah
 - 👀 I am passionate about coding
 - 🌱 I’m currently learning HTML, CSS, JS
-- 💞️ I am passionate about collaborating on projects as a Full Stack Software Engineer.
+- 💞️ I enjoy collaborating on projects as a Full Stack Software Engineer.
 - 📫 How to reach me - you can contact me here.
 
 <!---
